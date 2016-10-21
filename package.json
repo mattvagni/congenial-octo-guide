@@ -1,0 +1,19 @@
+{
+  "name": "dropbox-paper-mac",
+  "version": "1.0.0",
+  "description": "Dropbox Paper for Mac",
+  "main": "src/main.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattvagni/congenial-octo-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattvagni/congenial-octo-guide/issues"
+  },
+  "homepage": "https://github.com/mattvagni/congenial-octo-guide#readme"
+}
